@@ -15,9 +15,10 @@ Minha transição para a Engenharia de Machine Learning é focada em eficiência
 * **Filosofia:** Interfaces limpas, automações inteligentes e performance orientada a resultados.
 
 ### 📈 Estatísticas
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardnunes&layout=compact&theme=vision-friendly-dark" alt="Linguagens mais usadas" />
-  <img src="https://github-readme-stats.vercel.app/api?username=leonardnunes&show_icons=true&theme=vision-friendly-dark" alt="Estatísticas do GitHub" />
+
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardnunes&layout=compact&theme=vision-friendly-dark)
+
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=leonardnunes&show_icons=true&theme=vision-friendly-dark)
 </p>
 
 ---
