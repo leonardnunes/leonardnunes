@@ -2,7 +2,7 @@ Olá, eu sou o Leonardo Nunes.
 
 Atualmente, concentro meu trabalho na intersecção entre o **Desenvolvimento de Software** e a **Engenharia de Machine Learning**. Minha abordagem é pragmática: utilizo código para estruturar processos e inteligência de dados para antecipar decisões.
 
-### 🛠️ Tech Stack & Ferramentas
+### Tech Stack & Ferramentas
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
