@@ -9,12 +9,12 @@ Atualmente, concentro meu trabalho na intersecção entre o **Desenvolvimento de
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
-### 🚀 Projetos em Destaque
+### Projetos em Destaque
 * **Genyum:** Ecossistema B2B focado em saúde financeira para microempreendedores através de lógica estatística e previsibilidade de caixa.
 * **Molda.app:** Soluções para a estruturação e conversão inteligente de documentos corporativos.
 * **Inventário:** Sistema de gerenciamento e rastreamento de ativos em larga escala desenvolvido em Django.
 
-### 🧠 Foco em Engenharia de ML
+### Foco em Engenharia de ML
 Minha transição para a Engenharia de Machine Learning foca em transformar dados brutos em previsibilidade de negócio. Acredito em modelos que resolvem problemas reais e entregam valor direto antes de escalar complexidade.
 
 ---
