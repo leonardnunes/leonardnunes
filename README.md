@@ -7,19 +7,15 @@ Atualmente, concentro meu trabalho na intersecção entre o **Desenvolvimento de
 ![Django](https://img.shields.io/badge/django-%23092e20.svg?style=for-the-badge&logo=django&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Projetos em Destaque
-* **Genyum:** Ecossistema B2B focado em saúde financeira para microempreendedores com lógica estatística.
-* **Molda.app:** Estruturação inteligente de documentos corporativos.
-* **Inventário:** Gestão escalável de ativos em larga escala usando Django.
+* **Genyum:** Ecossistema B2B focado em saúde financeira para microempreendedores através de lógica estatística e previsibilidade de caixa.
+* **Molda.app:** Soluções para a estruturação e conversão inteligente de documentos corporativos.
+* **Inventário:** Sistema de gerenciamento e rastreamento de ativos em larga escala desenvolvido em Django.
 
 ### 🧠 Foco em Engenharia de ML
-Acredito em modelos que resolvem problemas reais. Meu foco está em transformar dados brutos em previsibilidade de negócio (Burn Rate, Runway e análise preditiva).
-
-### 📈 Estatísticas (Link Alternativo)
-Se o gráfico principal falhar, aqui está o resumo do meu ecossistema:
-
-![Estatísticas de Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=leonardnunes&layout=compact&theme=dark&hide_border=true)
+Minha transição para a Engenharia de Machine Learning foca em transformar dados brutos em previsibilidade de negócio. Acredito em modelos que resolvem problemas reais e entregam valor direto antes de escalar complexidade.
 
 ---
 
