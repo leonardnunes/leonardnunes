@@ -19,6 +19,6 @@ Minha transição para a Engenharia de Machine Learning foca em transformar dado
 
 ---
 
-### 📫 Vamos conversar?
+### Vamos conversar?
 [LinkedIn](https://www.linkedin.com/in/leonardo-nunes-8880081ab/) | [E-mail](leonardo21.nunes@gmail.com)
 
